@@ -1,13 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hi there, I am Yuning!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I’m a 4th-year PhD candidate at Harvard University, aiming to make our online experiences better! My research is around social media and mental health, digital well-being design, online health communication, and media exposures to eating disorders risk factors. I combine online traces, text, screenshots, with survey data in experimental and longitudinal study designs. 
+
+I am working on my PhD dissertation, where I am fortunate to be supervised by [Prof. Amit Goldenberg](https://www.amitgoldenberg.com/), [Prof. Vish Viswanath](https://www.hsph.harvard.edu/profile/kasisomayajula-viswanath/), [Prof. David Canning](https://www.hsph.harvard.edu/david-canning/), and [Dr. Laura Marciano](https://www.laura-marciano.com/). Beyond that, I’m deeply involved in exciting projects with the [Harvard Center for Health Communication](https://www.hsph.harvard.edu/chc/), the [Harvard Center for Health and Happiness](https://www.hsph.harvard.edu/health-happiness/), [STRIPED](https://www.hsph.harvard.edu/striped/), and [Harvard Berkman Klein Center](https://cyber.harvard.edu/).
+
+In the past, I worked as a research scientiest intern at the Demographic and Survey Science team at Meta, and as a data scientist at JPMorgan Chase Institute. Prior to that, I earned my master’s in Global Health and Population at Harvard Chan School, following by my 5-year undergraduate medical training at Peking University Health Science Center.
+
+Besides work, I am a big fan of rock climbing, kickboxing, snowboarding, hiking, Chinese Neolithic archaeology, documentary filmmaking, reading and making maps, food, cooking, and cats.
 
 A data-driven personal website
 ======
