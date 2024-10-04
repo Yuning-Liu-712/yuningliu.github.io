@@ -1,6 +1,6 @@
 ---
 title: "Online Mental Health Communication"
-excerpt: "Build on our past field experiment work "influenced the influencers" that found content creator training promote evidence-based mental health communication online. Now, we find that exposure to that content improves mental health discourse for TikTok users."
+excerpt: "Build on our past field experiment work 'influenced the influencers' that found content creator training promote evidence-based mental health communication online. Now, we find that exposure to that content improves mental health discourse for TikTok users."
 collection: portfolio
 ---
 
@@ -8,6 +8,7 @@ collection: portfolio
 - [Preprint](https://osf.io/preprints/socarxiv/p65nv)
 - [Fine-tuned LLMs](https://huggingface.co/chc-harvard) for identifying mental health knowledge construction and behavioral intention from TikTok user comments
 - [Code and data for replication](https://osf.io/vbkh8/)
+- 
 - Abstract: 
   - Background: Social media platforms like TikTok are pivotal for mental health communication (MHC), providing accessible, trusted content. Despite known benefits of creator training programs in improving content quality, it's uncertain if or how these enhancements affect people who watch that content. This study examines how training programs for TikTok creators influence TikTok users’ mental health knowledge construction and intended behaviors by analyzing user comments on TikTok videos.
   - Method: We employed LLM-assisted content analysis to annotate TikTok video comments for mental health knowledge construction and behavioral intentions. We then analyzed the impact of a creator training program on users' mental health knowledge construction through within-subject field experiments. Additionally, we extended this method to measure how TikTok's Mental Health Awareness Month (MHAM) in May 2023 affected user mental health knowledge construction and behavioral intentions.
