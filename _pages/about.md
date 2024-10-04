@@ -14,7 +14,7 @@ I’m a 4th-year PhD candidate at Harvard University, aiming to make our online 
 ## My research
 - I am working on my PhD dissertation, where I am fortunate to be supervised by [Prof. Amit Goldenberg](https://www.amitgoldenberg.com/), [Prof. Vish Viswanath](https://www.hsph.harvard.edu/profile/kasisomayajula-viswanath/), [Prof. David Canning](https://www.hsph.harvard.edu/david-canning/), and [Dr. Laura Marciano](https://www.laura-marciano.com/).<br/>
 - Beyond that, I’m deeply involved in exciting projects with the [Harvard Center for Health Communication](https://www.hsph.harvard.edu/chc/), the [Harvard Center for Health and Happiness](https://www.hsph.harvard.edu/health-happiness/), [STRIPED](https://www.hsph.harvard.edu/striped/), and [Harvard Berkman Klein Center](https://cyber.harvard.edu/). <br/>
-- For more details, please check the [Selected Projects](https://yuning-liu-712.github.io/yuningliu.github.io//portfolio/).
+<!-- -For more details, please check the [Selected Projects](https://yuning-liu-712.github.io/yuningliu.github.io//portfolio/). -->
 
 
 ## Past experience
