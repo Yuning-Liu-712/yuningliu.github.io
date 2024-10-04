@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project 1: App-specific social media usage and adolescents well-being"
+excerpt: "<b>Collaborator<b>: [HappyB](https://www.laura-marciano.com/happyb) project, with Dr. Laura Marciano<br/><img src='/images/happyb.jpg'>"
 collection: portfolio
 ---
 
