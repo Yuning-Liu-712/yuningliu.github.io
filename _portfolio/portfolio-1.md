@@ -1,35 +1,16 @@
-#---
-#title: "Project 1: App-specific social media usage and adolescents well-being <br/>"
-#excerpt: "<img src='/images/happyb.png'>"
-#collection: portfolio
-#---
-
-#<b>Collaborator<b>: [HappyB](https://www.laura-marciano.com/happyb) project, with Dr. Laura Marciano <br/>
-
 ---
-permalink: /
-title: "Hi there, I am Yuning!"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Project 1: App-specific social media usage and adolescents well-being <br/>"
+excerpt: "We develop app-specific usage (Appnome) from user donated screenshots in an EMA study, and explore the relationships between app-specific use, problematic social media use, hedonic well-being, and eudaimonic well-being<img src='/images/happyb.png'>"
+collection: portfolio
 ---
 
+- Collaborator: [HappyB](https://www.laura-marciano.com/happyb) project, with Dr. Laura Marciano
+- Part 1: Appnome and user-donated screenshots
+  - Abstract: Objective data on social media use is now urgently needed for understanding its impact on adolescent well-being. Traditional objective social media data collec-tion methods, such as data donation and passive sensing, face challenges includ-ing intrusiveness, privacy concerns, and limitations in adolescent—a critical demographic in this research area. In our study, we introduced a novel, less in-trusive method using user-donated screenshots within an ecological momentary assessment (EMA) framework. We recruited 374 adolescents from Switzerland, who were instructed to capture and share three daily screenshots detailing their total and app-specific usage across screentime, activations, and notifications. From this, we collected 6,819 screenshots, with 25% of participants failing to submit any screenshots, 14% submitted incorrect or incomplete ones, while 64% provided complete data for more than five days. To process this data, we developed an image-to-text pipeline using Tesseract OCR that achieved a 96% average accuracy rate. This user-donated screenshot method proved to be less burdensome than traditional data donation, capable of capturing detailed app-specific usage across smartphone operating systems, and applicable among ado-lescents. Nonetheless, success of the user-donated screenshot approach hinges on user compliance. We analyze attrition sources and suggest six strategies to enhance future research, such as incentivizing participation, implementing pre-upload image checks, and improving participant onboarding and education.
+  - [Publication](https://x.com/YLiu999)
+
+- Part 2: App-specific usage and adolescent well-being
+  - Abstract: The debate on how social media use (SMU) influences adolescent well-being is mostly based on self-reports of SMU. By collecting data from 374 Swiss adolescents (Meanage= 15.71; SDage=.82) over 2 weeks, we created “Appnomes” from user-donated screenshots and associated SMU with daily hedonic and eudaimonic well-being. Longer TikTok time predicted lower eudaimonic well-being (β =-.08) daily but higher positive emotions (β =.06) on the following day; longer use of WhatsApp predicted negative emotions (β =.06) while screen unlocks higher feelings of connection (β =.08). Instagram notification was positively related to levels of feeling focused (β=.06) the next day. YouTube screen unlocks predicted more feeling of meaning (β=.07) the next day. Snapchat use led to less relaxed, less competent, and less positive emotions (with -.07 < β < -.06). Results pointed towards minimal or no effects, challenging the moral panic on the detrimental impact of SMU on teen well-being.
+  - [Poster](https://x.com/YLiu999)
 
 
-I’m a 4th-year PhD candidate at Harvard University, aiming to make our online experiences better! My research is around social media and mental health, digital well-being design, online health communication, and media exposures to eating disorders risk factors. I combine online traces, text, screenshots, with survey data in experimental and longitudinal study designs. 
-
-## My research
-- I am working on my PhD dissertation, where I am fortunate to be supervised by [Prof. Amit Goldenberg](https://www.amitgoldenberg.com/), [Prof. Vish Viswanath](https://www.hsph.harvard.edu/profile/kasisomayajula-viswanath/), [Prof. David Canning](https://www.hsph.harvard.edu/david-canning/), and [Dr. Laura Marciano](https://www.laura-marciano.com/).<br/>
-- Beyond that, I’m deeply involved in exciting projects with the [Harvard Center for Health Communication](https://www.hsph.harvard.edu/chc/), the [Harvard Center for Health and Happiness](https://www.hsph.harvard.edu/health-happiness/), [STRIPED](https://www.hsph.harvard.edu/striped/), and [Harvard Berkman Klein Center](https://cyber.harvard.edu/). <br/>
-- For more details, please check the [Selected Projects](https://yuning-liu-712.github.io/yuningliu.github.io//portfolio/).
-
-
-## Past experience
-- In the past, I worked as a research scientiest intern at the Demographic and Survey Science team at Meta, and as a data scientist at JPMorgan Chase Institute. <br/>
-- Prior to that, I earned my master’s in Global Health and Population at Harvard Chan School, following by my 5-year undergraduate medical training at Peking University Health Science Center.<br/>
-- I was engaged in fieldworks in rural China and rural South Africa, experiences that highlighted the stark disparities and gaps in global human development.
-
-
-## Beyond work
-I am a big fan of rock climbing, kickboxing, snowboarding, hiking, Chinese Neolithic archaeology, documentary filmmaking, reading and making maps, food, cooking, and cats.
