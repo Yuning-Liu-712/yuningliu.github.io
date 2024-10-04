@@ -4,13 +4,6 @@ excerpt: "Build on our past field experiment work "influenced the influencers" t
 collection: portfolio
 ---
 
-#---
-#title: "Project 1: App-specific social media usage and adolescents well-being"
-#excerpt: "We develop app-specific usage (Appnome) from user donated screenshots in an EMA study, and explore the relationships between app-specific use, problematic social media use, hedonic well-being, and eudaimonic well-being" 
-##<br/><img src='images/happyb.png'>
-#collection: portfolio
-#---
-
 - Collaborator: Harvard [Center for Health Communication](https://www.hsph.harvard.edu/chc/), [Amanda Yarnell](https://www.hsph.harvard.edu/chc/people/amanda-yarnell/), [Matthew Motta](https://www.bu.edu/sph/profile/matthew-motta/) 
 - [Preprint](https://osf.io/preprints/socarxiv/p65nv)
 - [Fine-tuned LLMs](https://huggingface.co/chc-harvard) for identifying mental health knowledge construction and behavioral intention from TikTok user comments
