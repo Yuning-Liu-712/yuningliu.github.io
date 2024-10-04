@@ -16,7 +16,8 @@ main:
   #  url: /teaching/    
     
   - title: "Selected Projects"
-    url: /portfolio/
+   # url: /portfolio/
+     url: /pages/about.md
         
   #- title: "Blog Posts"
   #  url: /year-archive/
