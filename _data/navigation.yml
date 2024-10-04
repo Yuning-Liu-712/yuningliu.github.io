@@ -15,8 +15,8 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  #- title: "Selected Projects"
-   # url: /portfolio/
+  - title: "Selected Projects"
+    url: /portfolio/
    #  url: /pages/about.md
         
   #- title: "Blog Posts"
